@@ -1,0 +1,4 @@
+SCR_AIWorld {
+ ID "50B2B8F35661FB44"
+ "Active AI limit" 512
+}
